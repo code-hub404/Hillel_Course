@@ -1,5 +1,4 @@
 from prompt_toolkit.shortcuts import clear
-
 num = int(input("Введите целое число:"))
 a = 1000
 digit = num
@@ -17,6 +16,7 @@ print(left)
 print(left1)
 print(left2)
 print(left3)
+
 
 
 
