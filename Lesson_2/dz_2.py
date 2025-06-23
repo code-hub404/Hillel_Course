@@ -1,4 +1,3 @@
-from prompt_toolkit.shortcuts import clear
 num = int(input("Введите целое число:"))
 a = 1000
 digit = num
